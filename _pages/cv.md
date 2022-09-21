@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-<object data="../files/CV_Lina.pdf" width="1000" height="1000" type='application/pdf'></object>
-<a href="lina-lukyantseva.github.io/files/CV_Lina.pdf" target="_blank">PDF.</a>
+# <object data="../files/CV_Lina.pdf" width="1000" height="1000" type='application/pdf'></object>
+<a href="/files/CV_Lina.pdf" target="_blank">PDF.</a>
