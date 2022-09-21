@@ -1,8 +1,7 @@
 ---
 layout: archive
-title:
 permalink: /personal/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
