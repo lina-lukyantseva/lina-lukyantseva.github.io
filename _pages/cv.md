@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/CV_Lina.pdf" target="_blank">PDF</a>
+Click <a href="/files/CV_Lina.pdf" target="_blank">here</a> to open my CV in a new tab.
