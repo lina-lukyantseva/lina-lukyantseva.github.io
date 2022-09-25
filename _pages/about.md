@@ -13,7 +13,7 @@ structure of microeconomic models with the flexibility of ML algorithms to devel
 interpretable, and incentive aligned. 
 
 Most recently, I was an intern at LinkedIn, on the Economics / AI team. LinkedIn uses recommender systems across its platform - 
-for example, to offer jobs to candidates. One of the challenges of recommender systems is position bias: listings which are displayed 
+for example, to offer jobs to candidates. One of the challenges of recommender systems is position bias – listings which are displayed 
 in a more favorable position are more likely to be selected, even if they are less relevant. I developed a [novel approach](#position-bias) to correcting 
 for position bias, by combining economic techniques for parameter estimation with ML-based methods for training.
 
