@@ -52,7 +52,7 @@ I also analyze an alternative interpretation of the same mathematical model in w
 <br>
 <h1 id="Projects">Projects</h1>
 
-<p><a name="position-bias"><strong>Position-bias-aware recommender systems</strong></a> [pdf coming soon]</p>
+<p><a name="position-bias"><strong>Position-bias-aware recommender systems</strong></a> [pdf available by request]</p>
 intern project @ LinkedIn
 <details open>
   <summary><em>Abstract</em></summary>
