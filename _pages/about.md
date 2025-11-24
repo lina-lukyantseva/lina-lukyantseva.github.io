@@ -24,8 +24,7 @@ Hello! I am co-founder and CTO at [Omnifold.ai](https://omnifold.ai). We're trai
   
   <p>We are onsite 5 days per week in SF. We are building fast and we are shipping fast 🚀 We are a team of people who <strong>LOVE</strong> finding elegant solutions to complex problems with measurable impact. If this resonates with you -- please reach out to learn more about the role!</p>
 </details>
-
-
+<br>
 Previously I was a research engineer at Adept (acquired by Amazon) and a PhD student in economics & CS at Stanford.
 
 <h1 id="Academic papers">Academic papers</h1>
