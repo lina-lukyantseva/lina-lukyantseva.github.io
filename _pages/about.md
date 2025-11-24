@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 Hello! I am co-founder and CTO at [Omnifold.ai](https://omnifold.ai). We're training multimodal prediction models for companies which make, distribute, and sell physical products. Our mission is to help businesses use all the data in their company and across the world to anticipate the future, so that they can eliminate waste and accelerate their growth.
-
 <br>
-
 <details>
-  <summary><strong>We are hiring!</strong></summary>
+  <summary><strong>We are hiring! ✨</strong></summary>
   <p>We are looking for a research engineer with strong ML theory/stats foundations + experience writing production code in python.</p>
   
   <p>What we do every day:</p>
@@ -24,10 +22,9 @@ Hello! I am co-founder and CTO at [Omnifold.ai](https://omnifold.ai). We're trai
     <li>collaborate with other researchers and engineers on the team, come up with a joint plan, then fully own and be responsible for your part of it</li>
   </ul>
   
-  <p>We are onsite 5 days per week in SF. We are building fast and we are shipping fast 🚀 We are a team of people who LOVE finding elegant solutions to complex problems with measurable impact. If this resonates with you -- please reach out to learn more about the role!</p>
+  <p>We are onsite 5 days per week in SF. We are building fast and we are shipping fast 🚀 We are a team of people who <strong>LOVE</strong> finding elegant solutions to complex problems with measurable impact. If this resonates with you -- please reach out to learn more about the role!</p>
 </details>
 
-<br>
 
 Previously I was a research engineer at Adept (acquired by Amazon) and a PhD student in economics & CS at Stanford.
 
